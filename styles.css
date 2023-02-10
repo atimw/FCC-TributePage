@@ -1,0 +1,46 @@
+body {
+    background-image: url('https://www.zelda.com/tears-of-the-kingdom/_images/backgrounds/pattern-circles-brown-2x.png');
+    color: #faf7dc;
+    font-family: arial, serif;
+  }
+  
+  header {
+    text-align: center;
+    margin: 0 auto 2em auto;
+  }
+  
+  #img-div {
+    margin: 0 auto 2em auto;
+    text-align: center;
+  }
+  
+  #img-div #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 6px;
+  }
+  
+  #tribute-info ul li {
+    margin: 0 auto 12px auto;
+  }
+  
+  .exit {
+    text-align: center;
+    border: solid 1px #f0f0f0;
+    padding: 12px;
+    border-radius: 6px;
+  }
+
+  a {
+    color: #faf7dc;
+  }
+
+  a:hover {
+    color: #85cccc;
+  }
+
+  a:visited {
+    color: #85cccc;
+  }
